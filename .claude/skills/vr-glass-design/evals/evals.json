@@ -1,0 +1,23 @@
+{
+  "skill_name": "vr-glass-design",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a single-file HTML page for a VR art gallery called 'ART VR — The Virtual Gallery'. Sidebar with 4 artists (the 4th one, Julian Cross, is selected), a large featured artwork titled 'Vibrant Grove' (2024 · Contemporary), and a thumbnail carousel below it. Dark premium glass style.",
+      "expected_output": "Dark glassmorphism page matching the reference: red/blue color-bleed background, glass panel layout, numbered nav list with expanded active card, hero media with centered caption, glass carousel with active ring",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Зроби мені темний скляний дашборд для музичного застосунку: зліва список плейлистів, по центру обкладинка поточного треку з назвою, знизу карусель альбомів.",
+      "expected_output": "Same glass design language generalized to a music app: tokens, glass recipe, letterspaced labels, carousel — but with music content, not a copy of the gallery",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Restyle my landing page hero to look premium and dark, like those frosted-glass visionOS interfaces.",
+      "expected_output": "Applies the background bleed + glass recipe + typography rules to existing content without rebuilding the gallery layout",
+      "files": []
+    }
+  ]
+}
